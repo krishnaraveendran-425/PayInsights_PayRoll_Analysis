@@ -73,7 +73,7 @@ The dashboard includes:
 - [x] Cleaned and validated the data.
 - [x] Completed Excel analysis.
 - [x] Completed SQL analysis using MySQL.
-- [ ] Documented final findings and business insights.
+- [x] Documented final findings and business insights.
 
 ## 💡 Key Learnings
 
